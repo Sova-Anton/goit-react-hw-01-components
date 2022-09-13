@@ -1,5 +1,16 @@
 import PropTypes from 'prop-types';
-import { Container, Avatar, Description, Name, Tag, Location, Stats, Label, Item, Quantity} from './Profile.styled';
+import {
+  Container,
+  Avatar,
+  Description,
+  Name,
+  Tag,
+  Location,
+  Stats,
+  Label,
+  Item,
+  Quantity,
+} from './Profile.styled';
 
 export const Profile = ({
   username,

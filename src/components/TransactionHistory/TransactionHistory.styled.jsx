@@ -5,7 +5,6 @@ export const Container = styled.table`
   margin-left: auto;
   margin-right: auto;
   padding: 20px 0;
-  
 `;
 
 export const ColoneName = styled.th`
@@ -20,7 +19,7 @@ export const ColoneName = styled.th`
 `;
 
 export const TableBody = styled.tbody`
-    background-color: #b4dda5;
+  background-color: #b4dda5;
 `;
 
 export const StylRow = styled.tr`

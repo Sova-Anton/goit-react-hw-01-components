@@ -3,7 +3,7 @@ import { Item, Name, Status } from './FrienListItem.styled';
 
 export function FriendListItem({ name, isOnline, avatar }) {
   return (
-    <Item >
+    <Item>
       <Status isOnline={isOnline}></Status>
       <img src={avatar} alt="User avatar" width="48" />
       <Name>{name}</Name>

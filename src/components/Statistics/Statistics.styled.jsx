@@ -5,7 +5,7 @@ export const Container = styled.section`
   margin-left: auto;
   margin-right: auto;
   padding-top: 20px;
-  background-color:#ffffb2;
+  background-color: #ffffb2;
   border-radius: 16px;
   overflow: hidden;
 `;

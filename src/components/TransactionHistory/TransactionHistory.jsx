@@ -1,5 +1,11 @@
 import PropTypes from 'prop-types';
-import { Container, ColoneName, StylRow, Invoice, TableBody } from './TransactionHistory.styled';
+import {
+  Container,
+  ColoneName,
+  StylRow,
+  Invoice,
+  TableBody,
+} from './TransactionHistory.styled';
 
 export function TransactionHistory({ items }) {
   return (
